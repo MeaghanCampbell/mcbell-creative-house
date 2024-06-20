@@ -5,12 +5,12 @@ export default function Nav() {
     return (
       <nav>
           {/* desktop nav */}
-          <section className="sand-background p-6">
+          <section className="sand-background px-6 py-4">
               <div className="flex items-center justify-between blue max-w-7xl mx-auto">
                   <div>
                       <p className={`${myeongjo.className} font-bold text-2xl`}>McBell Creative House</p>
                   </div>
-                  <div className="space-x-10 uppercase font-medium">
+                  <div className="space-x-10 uppercase font-bold">
                       <Link href="/">Home</Link>
                       <Link href="/about">About</Link>
                       <Link href="/services">Services</Link>
