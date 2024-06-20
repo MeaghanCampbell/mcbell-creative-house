@@ -1,0 +1,53 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* colors */
+.sand {
+  color: #F4F2EF;
+}
+
+.dune {
+  color: #C5BAAA;
+}
+
+.blue {
+  color: #455EB6;
+}
+
+.blue-background {
+  background-color: #455EB6;
+}
+
+.sand-background {
+  background-color: #F4F2EF;
+}
+
+.dune-background {
+  background-color: #C5BAAA;
+}
+
+.image-bg {
+  position: relative;
+  background-image: url('../public/assets/iceland.jpg');
+  background-size: cover;
+  background-position: top;
+  height: 80vh; /* Adjust as needed */
+}
+
+.sand-bg {
+  position: relative;
+  background-image: url('../public/assets/sand.jpg');
+  background-size: cover;
+  background-position: top;
+  height: 80vh; /* Adjust as needed */
+}
+
+.btn-bg {
+  background-color: #455EB6;
+}
+
+.btn-bg:hover {
+  background-color: #6174b9;
+}
+
