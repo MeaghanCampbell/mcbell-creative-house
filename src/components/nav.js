@@ -1,4 +1,4 @@
-import { literata } from '@/font-config'
+import { myeongjo } from '@/font-config'
 import Link from 'next/link';
 
 export default function Nav() {
@@ -8,7 +8,7 @@ export default function Nav() {
           <section className="sand-background p-6">
               <div className="flex items-center justify-between blue max-w-7xl mx-auto">
                   <div>
-                      <p className={`${literata.className} text-2xl`}>MCBELL CREATIVE HOUSE</p>
+                      <p className={`${myeongjo.className} font-bold text-2xl`}>McBell Creative House</p>
                   </div>
                   <div className="space-x-10 uppercase font-medium">
                       <Link href="/">Home</Link>
