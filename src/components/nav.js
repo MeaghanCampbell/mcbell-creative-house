@@ -10,9 +10,8 @@ export default function Nav() {
                   <div>
                       <p className={`${myeongjo.className} font-bold text-2xl`}>McBell Creative House</p>
                   </div>
-                  <div className="space-x-10 uppercase font-bold">
+                  <div className="space-x-10 uppercase font-medium text-sm">
                       <Link href="/">Home</Link>
-                      <Link href="/about">About</Link>
                       <Link href="/services">Services</Link>
                       <Link href="/portfolio">Portfolio</Link>
                       <Link href="/contact">Contact</Link>

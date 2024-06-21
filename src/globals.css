@@ -61,4 +61,11 @@ body{
   margin-top: -40px;
 }
 
+.mountain-bg {
+  position: relative;
+  background: url('/assets/mountain.jpg') no-repeat center center;
+  background-size: cover;
+  background-position: top;
+}
+
 
