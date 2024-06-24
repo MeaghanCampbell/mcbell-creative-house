@@ -5,8 +5,8 @@ export default function Nav() {
     return (
       <nav>
           {/* desktop nav */}
-          <section className="sand-background px-6 py-4">
-              <div className="flex items-center justify-between blue max-w-7xl mx-auto">
+          <section className="new-white-background px-6 py-4 black-bottom-brdr">
+              <div className="flex items-center justify-between text-black max-w-7xl mx-auto">
                   <div>
                       <p className={`${myeongjo.className} font-bold text-2xl`}>McBell Creative House</p>
                   </div>
