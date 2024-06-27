@@ -9,7 +9,7 @@ export default function Services() {
             <section className='new-white-background'>
                 <div className='grid grid-cols-1 lg:grid-cols-2'>
                     <div className='max-w-3xl mx-auto px-6 py-24'>
-                        <h1 className={`${myeongjo.className} text-6xl font-bold`}>Services</h1>
+                        <h1 className={`${myeongjo.className} text-6xl uppercase`}>Services</h1>
                         <p>copy</p>
                         <div className='mt-4'>
                             <Link href="/services" className='inline-block btn-bg transition text-white px-8 py-4 uppercase font-bold'>Get Started</Link>

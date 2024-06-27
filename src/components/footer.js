@@ -14,7 +14,7 @@ export default function Home() {
                         <Link href="/services" class="leading-6 text-sm sand">SERVICES</Link>
                     </div>
                     <div class="pb-6">
-                        <Link href="/portfolio" class="leading-6 text-sm sand">PORTFOLIO</Link>
+                        <Link href="/work" class="leading-6 text-sm sand">WORK</Link>
                     </div>
                     <div class="pb-6">
                         <Link href="/contact" class="leading-6 text-sm sand">CONTACT</Link>

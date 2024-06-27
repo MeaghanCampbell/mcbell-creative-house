@@ -38,7 +38,7 @@
 
 
 body{
-  background-color: #F2F3F4;
+  background-color: #455EB6;
 }
 
 .sand {
@@ -80,7 +80,7 @@ body{
 
 .image-bg {
   position: relative;
-  background: url('/assets/iceland.jpg') no-repeat center center;
+  background: url('/assets/mountain.jpg') no-repeat center center;
   background-size: cover;
   background-position: top;
   height: 90vh; /* Adjust as needed */
