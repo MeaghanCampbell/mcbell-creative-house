@@ -7,7 +7,7 @@ export default function Contact() {
 
             <section className='px-6 py-24 new-white-background'>
                 <div className='max-w-7xl mx-auto'>
-                    <h1 className={`${myeongjo.className} text-6xl uppercase  text-center`}>Work With Us</h1>
+                    <h1 className={`${myeongjo.className} text-4xl md:text-6xl uppercase  text-center`}>Work With Us</h1>
                     <p className='mt-2 max-w-2xl mx-auto text-center'>copy</p>
                     <form className='max-w-2xl mx-auto mt-10 space-y-6'>
                         <div>

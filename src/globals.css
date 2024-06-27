@@ -38,7 +38,7 @@
 
 
 body{
-  background-color: #455EB6;
+  background-color: #F2F3F4;
 }
 
 .sand {
@@ -75,7 +75,7 @@ body{
 }
 
 .gradient-bg {
-  background: linear-gradient(to bottom, #D3D9EE, #F0F2F9);
+  background: linear-gradient(to bottom, #F0F2F9, #D3D9EE);
 }
 
 .image-bg {
